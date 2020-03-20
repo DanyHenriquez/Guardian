@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Guardian/database"
-	"Guardian/handlers"
-	"Guardian/models"
+	"github.com/DanyHenriquez/Guardian/database"
+	"github.com/DanyHenriquez/Guardian/handlers"
+	"github.com/DanyHenriquez/Guardian/models"
 	"github.com/joho/godotenv"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"

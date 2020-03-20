@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"Guardian/models"
 	"crypto/rand"
 	"fmt"
+	"github.com/DanyHenriquez/Guardian/models"
 	"github.com/labstack/echo"
 	"github.com/pquerna/otp/totp"
 	"net/http"

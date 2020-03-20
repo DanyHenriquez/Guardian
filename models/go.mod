@@ -1,3 +1,3 @@
-module Guardian/models
+module github.com/DanyHenriquez/Guardian/models
 
 go 1.14

@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"Guardian/models"
+	"github.com/DanyHenriquez/Guardian/models"
 	"github.com/alexedwards/argon2id"
 	"github.com/labstack/echo"
 	"net/http"

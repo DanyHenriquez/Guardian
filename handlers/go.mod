@@ -1,4 +1,4 @@
-module Guardian/handlers
+module github.com/DanyHenriquez/Guardian/handlers
 
 go 1.14
 
